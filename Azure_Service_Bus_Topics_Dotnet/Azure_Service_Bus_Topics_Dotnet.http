@@ -1,0 +1,6 @@
+@Azure_Service_Bus_Topics_Dotnet_HostAddress = http://localhost:5272
+
+GET {{Azure_Service_Bus_Topics_Dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
